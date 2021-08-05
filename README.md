@@ -19,3 +19,5 @@ Contribute
 ----------
 
 If you'd like to contribute to wizcoin, check out https://github.com/zoldaten/wizcoin
+
+test
